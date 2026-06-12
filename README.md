@@ -25,6 +25,16 @@ A responsive multi-page restaurant website built using HTML and CSS. The project
 
 Frontend Web Development Project
 
+## SCREENSHOTS
+### Landing Page
+![Landing Page](screenshots/HomePage.png)
+
+### Image Gallery
+![Image Gallery](screenshots/ImageGallery.png)
+
+### Table Reservation
+![Table Reservation Form](screenshots/BookTablePage.png)
+
 ## Author
 
 Jhanvi Gupta
