@@ -25,6 +25,9 @@ A responsive multi-page restaurant website built using HTML and CSS. The project
 
 Frontend Web Development Project
 
+## LIVE DEMO
+https://jhanvi-code23.github.io/restaurant-website/
+
 ## SCREENSHOTS
 ### Landing Page
 ![Landing Page](screenshots/HomePage.png)
